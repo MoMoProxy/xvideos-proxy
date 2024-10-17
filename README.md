@@ -28,6 +28,7 @@
 
 <h3>1. Choose a Trusted Proxy Provider</h3>
     <p>First, choose a reputable proxy provider, such as <a href="https://momoproxy.com">MoMoProxy</a>, that supports adult content and ensures user privacy.</p>
+    <p><a href="https://momoproxy.com/login?loginType=registry">Get a 50M-1GB Free Trial After Registration Now</a>!</p>
 
 <h3>2. Register and Get Proxy Details</h3>
     <p>Sign up for the proxy service and retrieve the proxy details (IP address and port number) that will be used for configuration.</p>
