@@ -57,7 +57,7 @@
 <h4>Browser Setup (Chrome/Firefox):</h4>
     <div class="steps">
         <ul>
-            <li>Download a proxy extension, such as Proxy Helper, from the browser’s extension store.</li>
+            <li>Download a proxy extension, such as <strong><a href="https://momoproxy.com/blog/use-chrome-extension-proxy-helper">Proxy Helper</a></strong>, from the browser’s extension store.</li>
             <li>Open the extension and input the proxy details (IP and port) provided by your service.</li>
             <img src="https://momoproxy.com/_next/image?url=https%3A%2F%2Fmomoproxy.com%2Fimage%2F20241017_1729132168276.jpg&w=2048&q=75">
             <li>Enable the extension, and your traffic will be securely routed through the proxy.</li>
